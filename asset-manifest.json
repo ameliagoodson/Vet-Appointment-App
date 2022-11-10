@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vet-Appointment-App/static/css/main.541ad9b4.css",
+    "main.js": "/Vet-Appointment-App/static/js/main.21d50045.js",
+    "index.html": "/Vet-Appointment-App/index.html",
+    "main.541ad9b4.css.map": "/Vet-Appointment-App/static/css/main.541ad9b4.css.map",
+    "main.21d50045.js.map": "/Vet-Appointment-App/static/js/main.21d50045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541ad9b4.css",
+    "static/js/main.21d50045.js"
+  ]
+}
