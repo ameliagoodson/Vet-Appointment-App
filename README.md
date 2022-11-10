@@ -10,7 +10,7 @@ The app uses the useState hook to display dynamic data based on user input. It u
 
 # Install and run
 
-Run npm install to install the node modules, then npm start to run the app in development mode at [http://localhost:3000](http://localhost:3000)
+Run npm install to install the node modules, then npm start to run the app in development mode at http://localhost:3000
 
 # Screenshots
 
