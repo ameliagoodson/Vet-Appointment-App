@@ -1,5 +1,9 @@
 # Vet Appointment App
 
+# Link to published site
+
+[https://ameliagoodson.github.io/Vet-Appointment-App/] (https://ameliagoodson.github.io/Vet-Appointment-App/)
+
 This user interface was built in React and allows users to create, delete and sort and order appointments. Tailwind is used for the CSS.
 
 The app uses the useState hook to display dynamic data based on user input. It uses the useEffect call to mimic a call to an API (really a json file stored in public folder).
