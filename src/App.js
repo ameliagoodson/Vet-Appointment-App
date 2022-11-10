@@ -38,8 +38,8 @@ function App() {
 	}, []);
 
 	return (
-		<div className="App container mx-auto mt-3 font-thin">
-			<h1 className="text-5xl mb-3">
+		<div className="App container mx-auto font-thin p-3">
+			<h1 className="text-3xl md:max-text-5xl mb-3">
 				<BiCalendar className="inline-block align-top mr-3" />
 				Your Appointments
 			</h1>
