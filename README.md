@@ -2,7 +2,7 @@
 
 # Link to published site
 
-[https://ameliagoodson.github.io/Vet-Appointment-App/] (https://ameliagoodson.github.io/Vet-Appointment-App/)
+https://ameliagoodson.github.io/Vet-Appointment-App/ 
 
 This user interface was built in React and allows users to create, delete and sort and order appointments. Tailwind is used for the CSS.
 
